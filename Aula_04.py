@@ -30,7 +30,16 @@
 #     x +=2
 
 #Faça um programa que mostre os 10 primeiros multiplos de 3
-x = 3
-while x <= 30:
-    print(x)
-    x +=3
+# x = 3
+# while x <= 30:
+#     print(x)
+#     x +=3
+
+#Calcule a soma de 10 números inteiros inseridos pelo usuário
+# n=1
+# soma=0
+# while n<=10:
+#     x=int(input(f"Digite o número {n}: "))
+#     soma=soma+x
+#     n+=1
+# print(f"Soma = {soma}")
